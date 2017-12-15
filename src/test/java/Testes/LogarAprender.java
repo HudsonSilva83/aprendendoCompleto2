@@ -102,7 +102,7 @@ public class LogarAprender {
 
     public void fechar(){
 
-        navegador.quit(); 
+        navegador.quit();
     }
 
 
